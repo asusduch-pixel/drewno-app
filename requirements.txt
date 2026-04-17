@@ -1,4 +1,2 @@
-text
 streamlit
-pd
-Używaj kodu z rozwagą.
+pandas
